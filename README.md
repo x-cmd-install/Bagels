@@ -21,11 +21,10 @@ x install Bagels
 
 - **Latest**: `0.3.12` (2025-07-06)
 - **Last commit**: 2025-07-06
-- **Published**: 2025-07-06T01:54:32Z
 
 ## Popularity
 
-- **Stars**: 2,900 · **Forks**: 108 · **Open issues**: 67 · **Contributors**: 8
+- **Stars**: 2,901 · **Forks**: 109 · **Open issues**: 67 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -56,8 +55,8 @@ Total: **15,351** lines of code across **104** files in the top 5 languages.
 Install metadata for Bagels lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `Bagels` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/Bagels.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/Bagels.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:43:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:24:00Z._

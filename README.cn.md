@@ -4,7 +4,7 @@
 
 Powerful expense tracker that lives in your terminal.
 
-![Bagels](https://repo.x-cmd.io/Bagels.svg)
+![Bagels](https://repo.x-cmd.io/Bagels.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install Bagels
 
 - **最新版本**: `0.3.12` (2025-07-06)
 - **最近提交**: 2025-07-06
-- **发布时间**: 2025-07-06T01:54:32Z
 
 ## 流行度
 
-- **Star**: 2,900 · **Fork**: 108 · **开放 issue**: 67 · **贡献者**: 8
+- **Star**: 2,901 · **Fork**: 109 · **开放 issue**: 67 · **贡献者**: 8
 
 ## 累计统计
 
@@ -60,4 +59,4 @@ Bagels 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:43:41Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:24:00Z._
