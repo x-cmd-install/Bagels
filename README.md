@@ -36,22 +36,22 @@ Total: **15,351** lines of code across **104** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,907 · **Forks**: 109 · **Open issues**: 67 · **Contributors**: 8
+- **Stars**: 2,908 · **Forks**: 109 · **Open issues**: 68 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 26 · **Open PRs**: 4 · **Closed issues**: 54 · **Open issues**: 13 · **Commits**: 220
+- **Releases**: 17 · **Merged PRs**: 26 · **Open PRs**: 4 · **Closed issues**: 54 · **Open issues**: 14 · **Commits**: 220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 10 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 0 | 10 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 0 | 10 | 0 | 0 |
-| last180d | 2026-03-28 | 0 | 0 | 0 | 10 | 0 | 0 |
-| 360d | 2025-09-29 | 0 | 0 | 2 | 14 | 6 | 0 |
-| last720d | 2024-10-04 | 17 | 26 | 4 | 54 | 13 | 220 |
+| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 0 | 10 | 0 | 0 |
+| 90d | 2026-06-27 | 0 | 0 | 0 | 10 | 0 | 0 |
+| last180d | 2026-03-29 | 0 | 0 | 0 | 10 | 1 | 0 |
+| 360d | 2025-09-30 | 0 | 0 | 2 | 14 | 7 | 0 |
+| last720d | 2024-10-05 | 17 | 26 | 4 | 54 | 14 | 220 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Bagels lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:47:19Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:58:19Z._
