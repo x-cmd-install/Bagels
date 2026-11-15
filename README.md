@@ -46,12 +46,12 @@ Total: **15,351** lines of code across **104** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-16 | 0 | 0 | 0 | 10 | 0 | 0 |
-| last180d | 2026-05-18 | 0 | 0 | 0 | 10 | 1 | 0 |
-| 360d | 2025-11-19 | 0 | 0 | 0 | 12 | 6 | 0 |
-| last720d | 2024-11-24 | 15 | 21 | 4 | 48 | 14 | 143 |
+| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-17 | 0 | 0 | 0 | 10 | 0 | 0 |
+| last180d | 2026-05-19 | 0 | 0 | 0 | 10 | 1 | 0 |
+| 360d | 2025-11-20 | 0 | 0 | 0 | 12 | 6 | 0 |
+| last720d | 2024-11-25 | 15 | 21 | 4 | 48 | 14 | 142 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for Bagels lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:20:14Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:41:12Z._
